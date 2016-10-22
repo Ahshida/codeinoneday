@@ -1,0 +1,5 @@
+Teal colour: #1bbc9b
+
+Fonts:
+Heading font: Montserrat
+Body font: Open Sans
